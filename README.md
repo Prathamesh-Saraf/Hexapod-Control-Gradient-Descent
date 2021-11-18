@@ -21,8 +21,8 @@ Since the work is not published yet, I cannot share our code base for the contro
 ## Plots
 
 <div  align="center">
-<img src="./Yuna_openloop1.png" width="450" />
-<img src="./Yuna_control.png" width="450" />
+<img src="./Yuna_openloop1.png" width="400" />
+<img src="./Yuna_control.png" width="400" />
 </div>
  Without gradient based control(left)                     with gradient based control (right)
  
