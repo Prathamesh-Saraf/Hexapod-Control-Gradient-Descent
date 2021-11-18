@@ -9,6 +9,7 @@ Since the work is not published yet, I cannot share our code base for the contro
 <img src="./yuna_uneven_nofb.gif" height="300" width="400" />
 </div>
  Without gradient based control(left)                     with gradient based control (right)
+
 ## Smooth terrain
 
 <div  align="center">
