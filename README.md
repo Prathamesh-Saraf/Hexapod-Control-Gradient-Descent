@@ -27,3 +27,6 @@ Since the work is not published yet, I cannot share our code base for the contro
  Without gradient based control(left)                     with gradient based control (right)
  
  The graph should ideally be converge to 'zero' signifying equal workload distribution on each leg.
+ 
+ ## All Videos
+https://drive.google.com/drive/folders/16vyU0-7pZt6hR2acLCtNc61eJzKQQNqU?usp=sharing
